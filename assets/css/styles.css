@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #87ceeb 0%, #ffe29f 50%, #ffa99f 100%);
+    padding-top: 50px;
+}
+
+.search-input {
+    max-width: 420px;
+}
+
+.weather-card {
+    border-radius: 0.75rem;
+}
+
+.weather-card-today {
+    border-left: 4px solid #0d6efd;
+}
