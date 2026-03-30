@@ -1,5 +1,8 @@
 # Bring Me Sunshine
 
+Important: 
+This site is front end only, and as a result API keys are exposed in javascript and repository. This currently has a free, rate limited API and is intended as a demonstration of js functionality for local use only.
+
 Deployed Link: https://hicelery.github.io/WeatherApp/
 Repository Link: https://github.com/hicelery/WeatherApp/tree/main
 
